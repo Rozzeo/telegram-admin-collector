@@ -1,0 +1,1 @@
+A Python-based Telegram data collection tool that extracts and manages channels with admin access using the Telegram API. Designed for automation, monitoring, and research workflows. Demonstrates API integration, data extraction, and Python automation skills.
