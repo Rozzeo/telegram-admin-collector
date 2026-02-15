@@ -3,8 +3,8 @@ from telethon import TelegramClient
 from telethon.tl.types import ChannelParticipantsAdmins
 import asyncio
 
-api_id = 21108803   # замените на число
-api_hash = 'f20c9463c0e3006826bf44dec6a326fc'  # замените на строку
+api_id = 000000000   # замените на число
+api_hash = 'f20c00000000000000000000c'  # замените на строку
 session_name = 'me'  # любое имя сессии, например 'me'
 
 async def main():
